@@ -1,0 +1,353 @@
+{
+  "version": "2.1",
+  "groups": [
+    {
+      "name": "Villainess Brocon",
+      "urls": [
+        "translate.goog",
+        "translate.google.com"
+      ],
+      "substitutions": [
+        {
+          "input": "エカテリーナ様",
+          "inputType": "text",
+          "output": "Ekaterina-sama",
+          "caseSensitive": false
+        },
+        {
+          "input": "エカテリーナ",
+          "inputType": "text",
+          "output": "Ekaterina",
+          "caseSensitive": false
+        },
+        {
+          "input": "アレクサンドラ様",
+          "inputType": "text",
+          "output": "Alexander-sama",
+          "caseSensitive": false
+        },
+        {
+          "input": "アレクサンドラ",
+          "inputType": "text",
+          "output": "Alexander",
+          "caseSensitive": false
+        },
+        {
+          "input": "アレクセイ様",
+          "inputType": "text",
+          "output": "Alexei-sama",
+          "caseSensitive": false
+        },
+        {
+          "input": "アレクセイ",
+          "inputType": "text",
+          "output": "Alexei",
+          "caseSensitive": false
+        },
+        {
+          "input": "フローラ",
+          "inputType": "text",
+          "output": "Flora",
+          "caseSensitive": false
+        },
+        {
+          "input": "Flora様",
+          "inputType": "text",
+          "output": "Flora-sama",
+          "caseSensitive": false
+        },
+        {
+          "input": "チェルニー",
+          "inputType": "text",
+          "output": "Czerny",
+          "caseSensitive": false
+        },
+        {
+          "input": "ユールノヴァ",
+          "inputType": "text",
+          "output": "Yurunova",
+          "caseSensitive": false
+        },
+        {
+          "input": "ミハイル",
+          "inputType": "text",
+          "output": "Mikhail",
+          "caseSensitive": false
+        },
+        {
+          "input": "ミナ",
+          "inputType": "text",
+          "output": "Mina",
+          "caseSensitive": false
+        },
+        {
+          "input": "イヴァン",
+          "inputType": "text",
+          "output": "Ivan",
+          "caseSensitive": false
+        },
+        {
+          "input": "ノヴァク",
+          "inputType": "text",
+          "output": "Novak",
+          "caseSensitive": false
+        },
+        {
+          "input": "セルゲイ様",
+          "inputType": "text",
+          "output": "Sergei-sama",
+          "caseSensitive": false
+        },
+        {
+          "input": "セルゲイ",
+          "inputType": "text",
+          "output": "Sergei",
+          "caseSensitive": false
+        },
+        {
+          "input": "ニコライ",
+          "inputType": "text",
+          "output": "Nikolai",
+          "caseSensitive": false
+        },
+        {
+          "input": "マリーナ",
+          "inputType": "text",
+          "output": "Marina",
+          "caseSensitive": false
+        },
+        {
+          "input": "ガレン工房",
+          "inputType": "text",
+          "output": "Garen workshop",
+          "caseSensitive": false
+        },
+        {
+          "input": "ガレン",
+          "inputType": "text",
+          "output": "Garen",
+          "caseSensitive": false
+        },
+        {
+          "input": "レフ",
+          "inputType": "text",
+          "output": "Lev",
+          "caseSensitive": false
+        },
+        {
+          "input": "クルイモフ",
+          "inputType": "text",
+          "output": "Krymov",
+          "caseSensitive": false
+        },
+        {
+          "input": "ハリル様",
+          "inputType": "text",
+          "output": "Halil-sama",
+          "caseSensitive": false
+        },
+        {
+          "input": "ハリル",
+          "inputType": "text",
+          "output": "Halil",
+          "caseSensitive": false
+        },
+        {
+          "input": "ゲオルギー",
+          "inputType": "text",
+          "output": "Georgi",
+          "caseSensitive": false
+        },
+        {
+          "input": "コンスタンティン",
+          "inputType": "text",
+          "output": "Constantine",
+          "caseSensitive": false
+        },
+        {
+          "input": "アレクサンドル",
+          "inputType": "text",
+          "output": "Alexander",
+          "caseSensitive": false
+        },
+        {
+          "input": "キンバレイ",
+          "inputType": "text",
+          "output": "Kimberly",
+          "caseSensitive": false
+        },
+        {
+          "input": "ローゼン",
+          "inputType": "text",
+          "output": "Rozen",
+          "caseSensitive": false
+        },
+        {
+          "input": "アイザック",
+          "inputType": "text",
+          "output": "Isaac",
+          "caseSensitive": false
+        },
+        {
+          "input": "イーゴリ",
+          "inputType": "text",
+          "output": "Igor",
+          "caseSensitive": false
+        },
+        {
+          "input": "ライーサ",
+          "inputType": "text",
+          "output": "Lisa",
+          "caseSensitive": false
+        },
+        {
+          "input": "レジナ",
+          "inputType": "text",
+          "output": "Regina",
+          "caseSensitive": false
+        },
+        {
+          "input": "キーラ",
+          "inputType": "text",
+          "output": "Kira",
+          "caseSensitive": false
+        },
+        {
+          "input": "エリク",
+          "inputType": "text",
+          "output": "Erik",
+          "caseSensitive": false
+        },
+        {
+          "input": "ノヴァダイン",
+          "inputType": "text",
+          "output": "Novadain",
+          "caseSensitive": false
+        },
+        {
+          "input": "アーロン",
+          "inputType": "text",
+          "output": "Aaron",
+          "caseSensitive": false
+        },
+        {
+          "input": "オレグ",
+          "inputType": "text",
+          "output": "Oleg",
+          "caseSensitive": false
+        },
+        {
+          "input": "ユールグラン",
+          "inputType": "text",
+          "output": "Yurugrand",
+          "caseSensitive": false
+        },
+        {
+          "input": "ユールマグナ",
+          "inputType": "text",
+          "output": "Yurumagna",
+          "caseSensitive": false
+        },
+        {
+          "input": "ユールセイン",
+          "inputType": "text",
+          "output": "Yurusein",
+          "caseSensitive": false
+        },
+        {
+          "input": "お兄様",
+          "inputType": "text",
+          "output": "Onii-sama",
+          "caseSensitive": false
+        },
+        {
+          "input": "お嬢様",
+          "inputType": "text",
+          "output": "Ojou-sama",
+          "caseSensitive": false
+        },
+        {
+          "input": "ムラーノ工房",
+          "inputType": "text",
+          "output": "Murano workshop",
+          "caseSensitive": false
+        },
+        {
+          "input": "ソイヤトリオ",
+          "inputType": "text",
+          "output": "Soiya trio",
+          "caseSensitive": false
+        },
+        {
+          "input": "ブラコン",
+          "inputType": "text",
+          "output": "brocon",
+          "caseSensitive": false
+        },
+        {
+          "input": "シスコン",
+          "inputType": "text",
+          "output": "siscon",
+          "caseSensitive": false
+        },
+        {
+          "input": "クソババア",
+          "inputType": "text",
+          "output": "that damn hag",
+          "caseSensitive": false
+        },
+        {
+          "input": "破滅フラグ",
+          "inputType": "text",
+          "output": "destruction flag",
+          "caseSensitive": false
+        },
+        {
+          "input": "悪役令嬢",
+          "inputType": "text",
+          "output": "villainess",
+          "caseSensitive": false
+        },
+        {
+          "input": "アラサー",
+          "inputType": "text",
+          "output": "arasa",
+          "caseSensitive": false
+        },
+        {
+          "input": "『",
+          "inputType": "text",
+          "output": "[",
+          "caseSensitive": false
+        },
+        {
+          "input": "』",
+          "inputType": "text",
+          "output": "]",
+          "caseSensitive": false
+        },
+        {
+          "input": "縦ロール",
+          "inputType": "text",
+          "output": "hair drills",
+          "caseSensitive": false
+        },
+        {
+          "input": "Hallil",
+          "inputType": "text",
+          "output": "Halil",
+          "caseSensitive": false
+        },
+        {
+          "input": "単眼熊",
+          "inputType": "text",
+          "output": "cyclops bear",
+          "caseSensitive": false
+        }
+      ],
+      "html": "none",
+      "enabled": true,
+      "mode": "auto&manual"
+    }
+  ]
+}
