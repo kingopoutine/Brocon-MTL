@@ -15,4 +15,5 @@ Raw: https://ncode.syosetu.com/n4138ck/
 ### Translation Resources
 
 FoxReplace: https://addons.mozilla.org/en-US/firefox/addon/foxreplace/  
-DeepL: https://www.deepl.com/translator
+DeepL: https://www.deepl.com/translator  
+Markdown Guide: https://www.markdownguide.org/basic-syntax/
