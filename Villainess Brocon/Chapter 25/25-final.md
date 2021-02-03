@@ -217,4 +217,4 @@ I thought there was no route where the heroine could capture Onii-sama. But in t
 I was a disappointing woman whose only real love life was a black history, so I can't help it if I deviate from the flow of the game.
 
 
-If that's the case, I'm happy for Onii-sama, but I'm still lonely ... I'm happy to be reincarnated as Onii-sama's younger sister. I still wish I could have tried to capture Onii-sama in that game of my previous life.
+If that's the case, I'm happy for Onii-sama, but I'm still lonely ... I'm happy to be reincarnated as Onii-sama's younger sister. But I wish I could have tried to capture Onii-sama in that game of my previous life.
