@@ -1,4 +1,4 @@
-### I'm a villainess, but I will participate in the event
+### I'm a villainess, but I'll participate in the event
 
 I woke up early on that day.
 
@@ -9,7 +9,7 @@ I was sitting up on the bed, looking over the letter I had on the bedside, when 
 
 "Good morning, Ojou-sama. You're up early today."
 
-"I woke up."
+"I'm awake."
 
 
 Mina opened the curtains and Ekaterina squinted under the glare of the morning sun.
@@ -19,18 +19,18 @@ It looks like there will be nice weather today.
 
 "Do you have any plans for today?"
 
-"Well, I had my first class. It's magic control, but it's my first time learning a practical skill. So I read over the advice I received from Dr. Mardu. You know, the tutor who delivered the sweets to Mina."
+"Well, I have my first class. It's magic control, but it's my first time learning a practical skill. So I read over the advice I received from Dr. Mardu. You know, the tutor who delivered the sweets to Mina."
 
 "It's a teacher with a little girl right? She was overjoyed at the sweets. Because Ojou-sama paid a reward for every question asked, that teacher was very grateful. No one else does this kind of thing."
 
 "Teacher's knowledge is for sale. It's a fair compensation."
 
 
-Well, when I was an SE<sup>1</sup> in my previous life, I often got caught up in a phone call from a client in my previous job and took a lot of time answering questions. I wasn't even a maintenance person and I was already working on a new project, I can't do this? But I was told to fix it and so I did.
+Well, when I was an SE<sup>1</sup> in my previous life, I often got caught up in phone calls from clients and took a lot of time answering questions. I wasn't even a maintenance person and I was already working on a new project, I can't do this? But I was told to fix it and so I did.
 
 Knowledge and skills are not free!
 
-One man's fault is another's lesson. Especially this teacher, who is from an aristocratic family with magical power but has has fallen and became a tutor, it reminded me of playing the game in a commoner's body. I have a small child. (?)
+One man's fault is another's lesson. Especially this teacher, who is from an aristocratic family with magical power but has has fallen and became a tutor, reminded me of playing the game in a commoner's body. I have a small child. (?)
 
 
 "You don't have to work so hard. The teacher praised Ojou-sama for your great magical power, so the classes at school will be a piece of cake."
@@ -38,7 +38,7 @@ One man's fault is another's lesson. Especially this teacher, who is from an ari
 "Thank you, Mina. I just want to be well prepared."
 
 
-In the letter, the teacher was also wondering about another thing. Earth attributes often do not require such high level of attack techniquein their magic classes.
+In the letter, the teacher was also wondering about another thing. Earth attributes often do not require such high level of attack technique in their magic classes.
 
 Even so, he politely answered the variation of the attacks I asked about, concerning root digging and leaf digging (?). Thank you, teacher.
 
@@ -50,7 +50,7 @@ Because if it's the same as the game, an event will occur during the first class
 
 That event is the appearance of a demon beast.
 
-Just when a magic control class is about to start in the training ground of the schoolyard, a powerful demon beast appears. The heroine must join forces with the prince, who rushes in, to fight off the magical beast and awaken to her own magical power.
+Just when a magic control class is about to start in the training ground of the schoolyard, a powerful demon beast appears. The heroine must join forces with the prince, who rushes in, to fight off the magical beast and awaken to her own magical power in the process.
 
 If you can't clear this event, the imperial extinction flag will be set. Eventually the Demon King invades the Imperial City, and the Imperial Palace is trampled.
 
@@ -71,7 +71,7 @@ The magic school, or rather, the entire center of the imperial capital, has not 
 
 In my previous life, this event would have been like a giant bear suddenly appearing near the Yasuda Auditorium of the University of Tokyo and going on a rampage.
 
-Just as bears live in Japan, demon beasts live in the empire. But they just lived in the forests, mountains, lakes, and never entered the city. Even if you go back to the Edo period, there were no bears in the flowery city of the Edo period.
+Just as bears live in Japan, demon beasts live in the empire. But they just live in the forests, mountains, lakes, and never entered the city. Even if you go back to the Edo period, there were no bears in the flowery cities of the Edo period.
 
 
 Maybe the demon beast was summoned? I thought it might be possible, but it seems that the current empire does not have the technology to do so.
@@ -81,7 +81,7 @@ A thousand years ago, there was a giant empire known as Astra that flourished in
 So I have no idea how the demon beast will appear here.
 
 
-When I was thinking about how to clear this event, I thought that I could make up some excuse to form an armed patrol or something so that the students would not have to fight unarmed. The game didn't say anything about why or how the demon beast appeared, and I couldn't come up with a reason to make such an arrangement.
+When I was thinking about how to clear this event, I thought that I could make up some excuse to form an armed patrol or something so that the students would not have to fight unarmed. But the game didn't say anything about why or how the demon beast appeared, and I couldn't come up with a reason to make such an arrangement.
 
 Let's say I try to tell them that the demon beast was supposed to appear.
 
@@ -107,12 +107,12 @@ Use as much magical power as possible to fight off the magical beast of the even
 And now Ekaterina is with the whole class.
 
 
-The training ground is only a division of the schoolyard, but it is quite large. It looks like it could take up four tennis courts. There is a fountain with graceful sculptures spraying water, bushes, flower beds, and rows of platforms for bonfires. It must be for practical skills of soil, water, and fire, which are overwhelmingly common for magical attributes. There is also a lot of wind, but this does not require any special equipment. There are various other attributes such as ice, light, darkness, and lightning, and some students have have multiple attributes.
+The training ground is only a division of the schoolyard, but it is quite large. It looks like it could take up four tennis courts. There is a fountain with graceful sculptures spraying water, bushes, flower beds, and rows of platforms for bonfires. It must be for practical skills of earth, water, and fire, which are overwhelmingly common for magical attributes. There is also a lot of wind, but this does not require any special equipment. There are various other attributes such as ice, light, darkness, and lightning, and some students have have multiple attributes.
 
 
 Some students are excited, some are depressed, and others have a variety of expressions on their faces as they attend their first practical class for magic control, as the class had been classroom lecture from enrollment until now.
 
-Since they are admitted to the Magic Academy, their magical powers all have met the standards, but there are individual differences. It is unavoidable that some people are excited to show their magical power in practical applications and others are not. A good marriage or adoption can be expected even if the family background is common or financially insecure, if the person's magical power is strong, so second sons and third sons who cannot inherit the family are desperate.
+Their magical powers all have met the standards since they have been admitted to the Magic Academy, but there are individual differences. It is unavoidable that some people are excited to show their magical power in practical applications and others are not. A good marriage or adoption can be expected even if the family background is common or financially insecure, if the person's magical power is strong, so second sons and third sons who cannot inherit the family are desperate yto do well.
 
 
 (Well, there was a story in my previous life about a desperate search for a son-in-law in a historical novel. I guess samurais and aristocrats all end up in the same place.)
@@ -134,7 +134,7 @@ I remembered with a gentle smile.
 
 It has been measured that her magical power is strong at the MAX level. However, the magical power attribute of the heroine is [?].
 
-So, when Yes-Yes Trio heard this word, they immediately began to say,
+When Yes-Yes Trio heard this, they immediately began to say,
 
 
 "Well, she doesn't even know her attributes. Isn't it a mistake to enroll?"
@@ -147,7 +147,7 @@ The harassment was said in the game...to the villainess Ekaterina.
 However, this time Ekaterina laughed. Listen to the class and you guys.
 
 
-"The teacher said that rare magical power attributes are often not determined immediately by measurement. I'm looking forward to finding out what kind of attributes you have."
+"The teacher said that rare magical power attributes often cannot determined immediately by measurement. I'm looking forward to finding out what kind of attributes you have."
 
 
 In the game, the heroine was special, and when she came to this world, it was often the case that she had rare attributes.
@@ -204,7 +204,7 @@ A black flame appears, spreading from its core,
 The air is shaken with a chattering sound,
 
 
-The space splits open.
+Space splits open.
 
 
 
@@ -225,4 +225,4 @@ It's dangerous, it's dangerous, it's far more dangerous and larger than how it l
 
 This level of difficulty shouldn't come out at such an early stage, you stupid game! 
 
-1 Systems Engineer
+<sup>1 Systems Engineer</sup>
