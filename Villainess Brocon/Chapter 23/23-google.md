@@ -1,121 +1,121 @@
-Although it is villainess, I will participate in the event
+### I'm a villainess, but I will participate in the event
 
 I woke up early on that day.
 
-As I wake up on the bed and look back at the letter I had on the bedside, Mina enters the bedroom and opens her eyes small.
+I was sitting up on the bed, looking over the letter I had on the bedside, when Mina entered the bedroom and opened her small eyes (?).
 
 
 "Good morning, Mina"
 
-"Good morning, Ojou-sama. It's early today."
+"Good morning, Ojou-sama. You're up early today."
 
 "I woke up"
 
 
-Mina opened the curtains and Ekaterina squinted at the glare of the rising sun.
+Mina opened the curtains and Ekaterina squinted under the glare of the morning sun.
 
-It looks like it will be fine today.
-
-
-"Is there anything today?"
-
-"Well, I had my first class. It's magical control, but it's my first practical skill. So I read back the advice I received from Dr. Mardu. You see, the tutor who delivered the sweets to Mina. teacher"
-
-"It's a teacher with a little lady. She was overjoyed at the sweets. That teacher, Ojou-sama, paid a reward for one question, so I was very grateful. No "
-
-"Teacher's knowledge is for sale. It's a legitimate reward."
+It looks like there will be nice weather today.
 
 
-No, when I was doing SE in my previous life, I often got caught up in a phone call from a client in my previous job and took a lot of time asking questions. I'm not a maintenance person and I'm already in a new project, can't I do this? I was told to fix it so that I could do it.
+"Do you have any plans for today?"
+
+"Well, I had my first class. It's magical control, but it's my first time learning a practical skill. So I read over the advice I received from Dr. Mardu. You know, the tutor who delivered the sweets to Mina."
+
+"It's a teacher with a little girl right?. She was overjoyed at the sweets. Because Ojou-sama paid a reward for every question asked, that teacher was very grateful. No one else does this kind of thing."
+
+"Teacher's knowledge is for sale. It's a fair compensation."
+
+
+Well, when I was an SE (sales engineer?) in my previous life, I often got caught up in a phone call from a client in my previous job and took a lot of time asking (answering?) questions. I wasn't even a maintenance person and I was already working on a new project, I can't do this? But I was told to fix it and so I did.
 
 Knowledge and skills are not free!
 
-Pretend to be a person and look back at me. In particular, this teacher, who is from an aristocrat with magical power, has fallen and is a tutor, and he remembers the fall of the commoners in the game and is struck by himself. I have a small child.
+One man's fault is another's lesson. Especially this teacher, who is from an aristocrat family with magical power but has has fallen and became a tutor, reminded me of playing the game in a commoner's body. I have a small child. (?)
 
 
-"I don't do my best. The teacher praised Ojou-sama because he has great magical power, so the school class is an easy win."
+"You don't have to work so hard. The teacher praised Ojou-sama for your great magical power, so the classes at school will be a piece of cake."
 
 "Thank you, Mina. I just want to be well prepared."
 
 
-The teacher is wondering even in the letter. Sat attributes are not often required to have such an attack technique in class.
+In the letter, the teacher is also wondering about another thing. Classes for earth attributes often do not require such high level of attack technique.
 
-Even so, he politely answered the variation of the attack that he asked for root digging and leaf digging. Thanks teacher.
-
-
-Because, if it's the same as the game, the first lesson to learn the practical skill of magic control should have an event that has a serious effect on the imperial destruction flag.
+Even so, he politely answered the variation of the attacks I asked about, concerning root digging and leaf digging (?). Thank you, teacher.
 
 
+Because if it's the same as the game, an event will occur during the first class on practical skills of magic control and it will have a serious effect on the imperial destruction flag.
 
 
-The content of the event is the appearance of a demon beast.
 
-A powerful demon beast appears when trying to start a magic control class in the training ground of the schoolyard. The heroine must join forces with the rushing prince to repel the demon beast and awaken to his magical power.
 
-If you can't clear this event, the imperial extinction flag will be set. Eventually, the Demon King invades the Imperial Palace and the Imperial Palace is trampled.
+That event is the appearance of a demon beast.
+
+Just when a magic control class is about to start in the training ground of the schoolyard, a powerful demon beast appears. The heroine must join forces with the prince who rushes in to fight off the magical beast and awaken to her(?) own magical power.
+
+If you can't clear this event, the imperial extinction flag will be set. Eventually the Demon King invades the Imperial City, and the Imperial Palace is trampled.
 
 So I'll do my best to clear the event!
 
 
 
-I should say that.
+...is what I should say.
 
 
-Now that I have been reborn in this world and have been living in school for almost a month, I think.
+Since being reborn in this world, I have been living in school for almost a month and I've been thinking.
 
-A demon beast really appears here ...?
-
-
-
-It seems that the magic school, or the entire center of the imperial capital, and the demon beasts haven't appeared for hundreds of years.
-
-That's why that event, in the previous life, suddenly a huge bear appears near the Yasuda Auditorium of the University of Tokyo and rampages.
-
-Just as bears live in Japan, demons live in the empire. But it's just forests, mountains, lakes, and never goes out into the city. Even if you go back to the Edo period, there were no bears in the flower Edo period.
+Will a demon beast really appear here...?
 
 
-Is it possible to summon only the demon beast? I thought, but it seems that the current empire does not have that technology.
 
-It is said that there was such a technology in the huge empire called Astra (existence like the Roman Empire of the previous life, the hometown of the heart for the empire and neighboring countries), which prospered around a thousand years ago and boasted several times the print of the Yurugrand Empire. There is a story, but it seems that the details have been lost.
+The magic school, or rather, the entire center of the imperial capital, has not seen the appearance of demon beasts for hundreds of years.
+
+In my previous life, this event would have been like a giant bear suddenly appearing near the Yasuda Auditorium of the University of Tokyo and going on a rampage.
+
+Just as bears live in Japan, demon beasts live in the empire. But they just live in the forests, mountains, lakes, and never enter the city. Even if you go back to the Edo period, there were no bears in the flowery city of the Edo period.
+
+
+Maybe the demon beast was summoned? I thought it might be possible, but it seems that the current empire does not have the technology to do so.
+
+A thousand years ago, there was a giant empire known as Astra that flourished in this area and boasted an area several times the size of the Yulgran Empire. (It is an existence like the Roman Empire of my previous life, the heart for the empire and neighboring countries.) According to the story they had such technology, but it seems that the details have been lost.
 
 So I have no idea how the demon beast will appear here.
 
 
-When I was thinking about how to clear this event, I thought that even if I made up for some reason, I would like to have an armed knights placed so that the students would not have to fight with a round waist. The game didn't say anything about why the demon beast appeared, and I couldn't come up with a reason to make such an arrangement.
+When I was thinking about how to clear this event, I thought that I could make up some excuse to form an armed patrol or something so that the students would not have to fight unarmed. The game didn't say anything about why or how the demon beast appeared, and I couldn't come up with a reason to make such an arrangement.
 
-A demon beast should appear, so let's say I tried to mess with it.
+Let's say I try to tell them that the demon beast was supposed to appear.
 
-You can't believe it for sure.
+They won't believe me for sure.
 
-At the same level as the office work of the University of Tokyo, if you say "I'm planning to have a bear around your Yasuda Auditorium today, please arrange for a hunting club", you must only say "Huh?" I can't get it.
+It would be the same as if I said, to the administrtion of the University of Tokyo, "There's going to be a bear around your Yasuda Auditorium today, please arrange for a hunting party", they would only say "Huh?" They won't believe me if I told them honestly.
 
-Therefore, it is absolutely impossible to place the Knights. I think Onii-sama will worry about your mental health.
-
-
-Also, if you make arrangements for the Knights and make it different from the game, it seems that your fate has been twisted, and instead of the game event not happening, a worse catastrophe will occur ... Then I got scared.
-
-I can't say it's impossible!
+Therefore, it is absolutely impossible to create a armed patrol. I think it will only make Onii-sama worry about my mental health.
 
 
-So ... I have no choice but to do what I can.
+Also, if you make arrangements for an armed unit and make it different from the game, it might twist your fate and instead of the predestined game event, a worse catastrophe occurs...the thought of it scared me.
 
-Repel the demon beast of the event with all the magical power.
-
-
+You can't say it's impossible!
 
 
-And now Ekaterina is in the lab with the whole class.
+So...I have no choice but to do what I can.
+
+Use as much the magical power as possible, to fight off the magical beast of the event.
 
 
-The training ground is only a light division of the schoolyard, but it is quite large. It seems that all four sides of the tennis court can be taken. There is a fountain with graceful sculptures blowing water, bushes of shrubs, flower beds, and rows of bonfires. It must be for practical skills of soil, water, and fire, which are overwhelmingly magical attributes. There is also a lot of wind, but this does not require any special equipment. There are various other attributes such as ice, light, darkness, and lightning, and some have multiple attributes by themselves.
 
 
-Since the magic control class, which has been a classroom lecture since enrollment, is the first practical skill, there are various facial expressions for those who are enthusiastic, those who are depressed, and those who are students.
-
-As long as they are admitted to the Magic Academy, they all have magical powers that meet the standards, but there are individual differences. It is unavoidable that some people are happy to show their magical power in practice and others are not. Even if the family is low or financially difficult, if the person's magical power is strong, good marriage and adoption can be expected, so the second son and third son who can not succeed the house are urgent.
+And now Ekaterina is with the whole class.
 
 
-(No, there was a story in a previous life novel that desperately searched for a place to enter a son-in-law. Samurai and aristocrats all end up together.)
+The training ground is only a division of the schoolyard, but it is quite large. It looks like it could take up four tennis courts. There is a fountain with graceful sculptures spraying water, bushes, flower beds, and rows of platforms for bonfires. It must be for practical skills of soil, water, and fire, which are overwhelmingly magical attributes. There is also a lot of wind, but this does not require any special equipment. There are various other attributes such as ice, light, darkness, and lightning, and some students have have multiple attributes.
+
+
+Some students are excited, some are depressed, and others have a variety of expressions on their faces as they attend their first practical class for magic control, as the class had been classroom lecture from enrollment until now.
+
+Since they are admitted to the Magic Academy, their magical powers all have met the standards, but there are individual differences. It is unavoidable that some people are happy to show their magical power in practical applications and others are not. A good marriage and adoption can be expected even if the family background is common or financially insecure, if the person's magical power is strong, so the second son and third son who cannot inherit the family are desperate.
+
+
+(Well, there was a story in my previous life about a desperate search for a son-in-law in a historical novel. I guess samurais and aristocrats all end up in the same place.)
 
 
 Looking around with that in mind, I noticed that Flora's expression was a little stiff.
@@ -123,97 +123,97 @@ Looking around with that in mind, I noticed that Flora's expression was a little
 
 "Flora-sama, do you have any concerns?"
 
-"No ... I'm sorry."
+"No...I'm sorry."
 
 
-I remembered with a smile.
+I remembered with a gentle smile.
 
 
-"Oh, the attributes of magical power have not been determined."
+"Oh, you haven't determined the attribute of your magic power, have you?"
 
 
-It has been measured that her magical power is strong at the MAX level. However, the magical power attribute of the heroine is [? ].
+It has been measured that her magical power is strong at the MAX level. However, the magical power attribute of the heroine is [?].
 
-So, when Soiya trio heard this word, he started to say it.
+So, when Yes-Yes Trio heard this word, they immediately began to say,
 
 
-"Well, I don't know the attributes. Isn't it wrong to enroll?"
+"Well, I don't even know the attributes. Isn't it a mistake to enroll?"
 
 "Yes, that's right."
 
 
-The same thing as harassment was said in the game. …… To villainess Ekaterina.
+The harassment was said in the game...to the villainess Ekaterina.
 
-However, this student Ekaterina laughs normally. Listen to the class and you guys.
-
-
-"The teacher said that rare magical power attributes are often not determined immediately by measurement. I'm looking forward to finding out what kind of attributes they are."
+However, this time Ekaterina laughed. Listen to the class and you guys.
 
 
-In the game, the heroine had a special feeling, but when he came to this world, it was often the case that he had a rare attribute.
+"The teacher said that rare magical power attributes are often not determined immediately by measurement. I'm looking forward to finding out what kind of attributes you have."
+
+
+In the game, the heroine was special, and when she came to this world, it was often the case that she had a rare attribute.
 
 
 "Yes, I'm looking forward to it, but I'm a little scared."
 
-"Maybe that's the case. I'm a little envious because I'm the most common soil attribute."
+"Maybe that's the case. I'm a little envious because I'm the most common earth attribute."
 
 
 Flora, I'm sorry. I know your magical attributes. But I can't say it.
 
-I'm sorry I have no choice but to say something white and bland.
+I'm sorry I have no choice but to say something bland.
 
 
-But ... the game event is where the heroine and the prince work together to defeat the demon beast.
+But...the game event is about to occur, where the heroine and the prince work together to defeat the demon beast.
 
 When I was playing a game on my smartphone, I could attack by hitting the buttons on the screen repeatedly.
 
 
-If a demon beast actually attacks here, how will Flora, who doesn't even know her magical power attributes, fight? ⁉︎
+If a demon beast actually attacks here, how will Flora, who doesn't even know her magical power attributes, fight!?
 
-I can't!
+It's impossible!
 
-So don't wake up to your magical power and pretend to be a crazy game!
-
-
+So awaken to your magical power or this game will be too unreasonable!
 
 
-"Then, let's start the practical skill. Everyone, please come here."
 
 
-The teacher calls out and Ekaterina returns to me.
+"Then, let's begin the practical training. Everyone, please father here."
 
-At that time.
 
-I felt that my skin was tingling.
+The teacher calls out and Ekaterina returns.
+
+At that time---
+
+My skin started tingling.
 
 
 (?)
 
 
-I felt something. Ekaterina looks back, not knowing what it is.
+I felt something. Without knowing what it was, Ekaterina looks back.
 
-In front of the fountain, I saw a shimmer like a heat haze. When I squinted at what it was,
-
-
-The heat haze spreads widely,
+In front of the fountain, I saw a flickering shimmer like a heat haze. When I squinted, wondering what it was,
 
 
-A black flame appears and spreads on its core,
+The heat haze spread,
 
 
-Shake the air with a flutter
+A black flame appears, spreading from its core,
 
 
-The space is torn.
+The air is shaken with a chate the air with a chattering sound,
+
+
+The space splits open.
 
 
 
-Guoooooo and the roar struck my ears.
+Guoooooo---the roar struck my ears.
 
 
-Gray body close to black. Although it has the shape of a carnivorous beast that resembles a wolf, it is covered with metallic scales. Three rows of fangs like a shark, peeking out of a roaring mouth.
+Its body is gray, almost black. Although it has the shape of a carnivorous beast that resembles a wolf, it is covered with metallic scales. Three rows of shark-like fangs peeked out of its roaring mouth.
 
-I couldn't compare it to a bear, even a black bear seems cute, estimated to be 3 meters long! That's right, the bear's largest grizzly bear was certainly that much!
+I couldn't compare it to a bear, in comparison even a black bear seems cute, and it's about 3 meters tall! That's right, the largest grizzly bear was certainly that much!
 
 
 Really, really, it came out.
@@ -221,6 +221,6 @@ Really, really, it came out.
 The demon beast of the game.
 
 
-It's dangerous, it's dangerous, it's far more dangerous than you can see on your smartphone. It was such a big ⁉︎
+It's dangerous, it's dangerous, it's far more dangerous and larger than how it looked on my phone. It was this big!?
 
-It's not a difficult level to come out in such an early stage, isn't it, a big idiot of the game! 
+This level of difficulty shouldn't come out at such an early stage, you stupid game! 
